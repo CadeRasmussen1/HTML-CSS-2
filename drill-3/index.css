@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(218, 213, 213);
+   padding: 25px;
+    box-sizing: border-box;
+
+}
+
+.square-1 {
+    background-color: rgb(91, 91, 248);
+    width: 60px;
+    height: 60px;
+}
+
+article {
+    padding: 50px;
+}
+
+.rect {
+    height: 25vh;
+}
+
+.rectangle-2{
+    background-color: rgb(73, 73, 197);
+}
+
+.rectangle-3{
+    background-color: rgb(56, 246, 205);
+}
+
+.rectangle-4{
+    background-color: yellowgreen;
+}
+
+.rectangle-5{
+    background-color: yellow;
+}
+.rectangle-6{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.rectangle-6 button {
+    height: 65px;
+    width: 65px;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+    border: none;
+    font-size: 50px;
+}
